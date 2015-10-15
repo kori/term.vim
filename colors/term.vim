@@ -3,7 +3,7 @@ set background=light
 let g:colors_name="term"
 
 " Code
-hi Function     ctermfg=2
+hi Function     ctermfg=6
 hi Statement    ctermfg=3
 hi Normal       ctermfg=none
 hi Comment      ctermfg=0
