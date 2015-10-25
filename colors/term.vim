@@ -16,8 +16,8 @@ hi SpecialKey   ctermfg=0
 hi SpellBad     ctermfg=9    ctermbg=none
 
 " Highlight
-hi Search       ctermfg=3    ctermbg=none
-hi Visual       ctermfg=6    ctermbg=none
+hi Search       ctermfg=3   ctermbg=none
+hi Visual       ctermfg=0
 hi MatchParen   ctermfg=0   ctermbg=none
 
 " Lines
