@@ -1,12 +1,12 @@
-" term.vim
+" vim-diesel
 set background=light
-let g:colors_name="term"
+let g:colors_name="diesel"
 
 " Code
 hi Function     ctermfg=6
 hi Statement    ctermfg=3
 hi Normal       ctermfg=none
-hi Comment      ctermfg=0
+hi Comment      ctermfg=0    cterm=italic
 hi Folded       ctermfg=8    ctermbg=none
 hi FoldColumn                ctermbg=none
 hi NonText      ctermfg=0
