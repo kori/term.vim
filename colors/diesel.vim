@@ -2,6 +2,9 @@
 set background=light
 let g:colors_name="diesel"
 
+" Cursor
+hi Cursor       ctermfg=8
+
 " Code
 hi Function     ctermfg=6
 hi Statement    ctermfg=3
